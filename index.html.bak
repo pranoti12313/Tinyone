@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title>Tinyone-layout</title>
+	 <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	 <link href="./assets/css/style.css" rel="stylesheet">
+	 <link href="./assets/css/utiliti.css" rel="stylesheet">
+   </head>
+   <body>
+            <!-- HeroImge section start here -->
+          <section class="heroImg">
+		     <div class="container">
+			 <div class="row mb-60">
+			     <div class="col-3">
+				   <a href="index.html" class="logo">
+				     <img src="./assets/images/logo.png" alt="logo" title="logo">  
+				   </a>
+				 </div>
+			     <div class="col-9">
+				    <nav class="navbar">
+					   <ul>
+					     <li><a href="javascipt:;">Features</a></li>
+					     <li><a href="javascipt:;">Support</a></li>
+					     <li><a href="javascipt:;">Blog</a></li>
+					   </ul>
+					</nav>
+				 </div>
+			 </div>
+			 <div class="row">
+			     <div class="col-5">
+				     <div class="inspiration">
+					    <h2 class="pri-heading">
+						Inspire your inspiration
+						</h2>
+						<h3 class="sec-heading">
+                          Simple to use for your app, products showcase and your inspiration
+						</h3>
+						<p class="para">
+						   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis. Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit 
+						</p>
+						<ul class="icon-list">
+						   <li>
+							   <a href="javascript:;">
+							      <i class="fa-brands fa-apple fa-3x"></i>
+							   </a>
+						   </li>
+						   <li>
+							   <a href="javascript:;">
+							       <i class="fa-solid fa-robot fa-3x"></i>
+							   </a>
+						   </li>
+						   <li>
+							   <a href="javascript:;">
+							      <i class="fa-brands fa-windows fa-3x"></i>
+							   </a>
+						   </li>
+						</ul>
+					 </div>
+				 </div>
+			     <div class="col-5 col-offset-2">
+				   <img src="./assets/images/ipad.png" alt="ipad" title="ipad" class="ipadImag">
+				 </div>
+			 </div>
+			    
+			 </div>
+		  </section>
+		   <!-- HeroImge section end here -->
+		  
+		   <!-- feature section start here -->
+          <section class="feature">
+		      <div class="container">
+			    <div class="row mb-90">
+				    <div class="col-10 col-offset-1 text-center">
+					    <h2 class="pri-heading mb-20">
+						Tinyone features
+						</h2>
+						<h3 class="sec-heading">
+                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.
+						</h3>
+					</div>
+				</div>
+		        <div class="row">
+				    <div class="col-3">
+				        <div class="thumbnill">
+				            <div class="row">
+								<div class="col-3">
+								  <i class="fa-brands fa-aws fa-3x"></i>
+								 </div>
+							     <div class="col-9">
+								    <h4 class="mb-20">
+										   Fully Responsive
+									 </h4>
+									  <p>
+									       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum.
+									   </p>
+								  </div>
+				            </div>
+			            </div>
+				    </div>
+					<div class="col-4">
+				        <div class="thumbnill">
+				            <div class="row">
+								<div class="col-3">
+								 <i class="fa-regular fa-lemon fa-3x"></i>
+								 </div>
+							     <div class="col-9">
+								    <h4 class="mb-20">
+                                          Fully Layered PSD
+									 </h4>
+									  <p>
+									       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum.
+									   </p>
+								  </div>
+				            </div>
+			            </div>
+				    </div>
+					<div class="col-4">
+				        <div class="thumbnill">
+				            <div class="row">
+								<div class="col-3">
+								<i class="fa-regular fa-folder fa-3x"></i>
+								 </div>
+							     <div class="col-9">
+								    <h4 class="mb-20">
+                                       Font Awesome Icons
+									 </h4>
+									  <p>
+									       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum.
+									   </p>
+								  </div>
+				            </div>
+			            </div>
+				    </div>
+					<div class="col-4">
+				        <div class="thumbnill">
+				            <div class="row">
+								<div class="col-3">
+								 <i class="fa-solid fa-code fa-3x"></i>
+								 </div>
+							     <div class="col-9">
+								    <h4 class="mb-20">
+										  HTML3 & CSS3
+									 </h4>
+									  <p>
+									       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum.
+									   </p>
+								  </div>
+				            </div>
+			            </div>
+				    </div>
+					<div class="col-4">
+				        <div class="thumbnill">
+				            <div class="row">
+								<div class="col-3">
+                                     <i class="fa-regular fa-envelope fa-3x"></i>
+								 </div>
+							     <div class="col-9">
+								    <h4 class="mb-20">
+										   Email Template
+									 </h4>
+									  <p>
+									       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum.
+									   </p>
+								  </div>
+				            </div>
+			            </div>
+				    </div>
+					<div class="col-4">
+				        <div class="thumbnill">
+				            <div class="row">
+								<div class="col-3">
+								 <i class="fa-regular fa-bookmark fa-3x"></i>
+								 </div>
+							     <div class="col-9">
+								    <h4 class="mb-20">
+										   Free to download
+									 </h4>
+									  <p>
+									       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum.
+									   </p>
+								  </div>
+				            </div>
+			            </div>
+				    </div>
+			    </div>
+				
+				
+			</div>
+		  </section>
+		  
+		   <!-- feature section end here -->
+		   <!-- footer section start here -->
+          <section class="contactUs">
+		      <div class="container">
+			      <div class="row mb-130">
+				     <div class="col-10 col-offset-1 text-center">
+					    <h2 class="pri-heading mb-20">
+						Tinyone features
+						</h2>
+						<h3 class="sec-heading mb-20">
+                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.
+						</h3>
+						<div class="form-group mb-60">
+						 <lable for="" class="sr-only"></lable>
+						<input class="email" type="email" placeholder="Enter your email to update">
+						<button type="submit" class="btn-primary">submit</button>
+						</div>
+						<ul class="icon-list">
+						   <li>
+							   <a href="javascript:;">
+							     <i class="fa-brands fa-facebook-f fa-3x"></i>
+							   </a>
+						   </li>
+						   <li>
+							   <a href="javascript:;">
+							     <i class="fa-brands fa-twitter fa-3x"></i>
+							   </a>
+						   </li>
+						   <li>
+							   <a href="javascript:;">
+							     <i class="fa-brands fa-google fa-3x"></i>
+							   </a>
+						   </li>
+						    <li>
+							   <a href="javascript:;">
+							      <i class="fa-brands fa-pinterest-p fa-3x"></i>
+							   </a>
+						   </li>
+						</ul>
+					</div>
+				  </div>
+				  <div class="row">
+				     <div class="col-3">
+				     <ul class="footerInfo">
+					    <li>HALOVIETNAM LTD</li>
+					    <li>66, Dang Van ngu, Dong Da</li>
+					    <li>Hanoi, Vietnam</li>
+					 </ul>
+					 </div>
+					 <div class="col-1 col-offset-1">
+				     <ul class="footerInfo pages">
+					    <li>examples</li>
+					    <li>shop</li>
+					    <li>license</li>
+					 </ul>
+					 </div>
+					  <div class="col-1 col-offset-1">
+				     <ul class="footerInfo pages">
+					    <li>contact</li>
+					    <li>about</li>
+					    <li>privacy</li>
+					    <li>terms</li>
+					 </ul>
+					 </div>
+					  <div class="col-1 col-offset-1">
+				     <ul class="footerInfo pages">
+					    <li>download</li>
+					    <li>support</li>
+					    <li>documents</li>
+					 </ul>
+					 </div>
+					 <div class="col-1 col-offset-1">
+				     <ul class="footerInfo pages">
+					    <li>media</li>
+					    <li>blogs</li>
+					    <li>forums</li>
+					 </ul>
+					 </div>
+				  </div>
+			  </div>
+		  </section>
+		  <!-- footer section ends here -->
+   </body>
+</html>
